@@ -1,3 +1,6 @@
 theme: jekyll-theme-leap-day
 title: MOAA Training
 description: Online site for MOAA Training
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
